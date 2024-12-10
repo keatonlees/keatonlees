@@ -1,4 +1,4 @@
-### Hey! I'm Keaton, a Full-Stack Develoepr 👋🏼
+### Hey! I'm Keaton, a Full-Stack Developer 👋🏼
 
 I'm a Systems Design Engineering Graduate from the University of Waterloo.
 
